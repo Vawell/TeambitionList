@@ -31,9 +31,6 @@ chmod +x ./app
 
 
 nohup方式命令为：
-[Bash shell] 纯文本查看 复制代码
-?
-1
 nohup ./app &
 
 
